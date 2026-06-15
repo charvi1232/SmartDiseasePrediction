@@ -1,0 +1,15 @@
+fever,cough,headache,fatigue,nausea,body_pain,sore_throat,vomiting,dizziness,cold,disease
+1,1,1,1,0,1,1,0,0,1,Flu
+1,1,0,1,0,0,1,0,0,1,Cold
+0,0,1,1,1,0,0,1,1,0,Migraine
+1,0,1,0,1,1,0,1,0,0,Typhoid
+0,1,0,1,0,0,1,0,0,1,Allergy
+1,1,1,1,1,1,1,0,0,1,COVID-19
+1,1,0,1,0,1,1,0,1,1,Pneumonia
+0,1,1,0,0,0,1,0,0,1,Tonsillitis
+1,0,1,1,0,1,0,1,1,0,Dengue
+1,0,0,1,1,1,0,1,1,0,Malaria
+0,0,1,1,0,0,0,0,1,0,Stress
+0,1,1,1,1,0,1,1,0,1,Sinusitis
+0,0,0,1,1,0,0,1,1,0,Food Poisoning
+1,0,0,1,0,1,0,0,0,1,Viral Fever
